@@ -2,7 +2,7 @@
 
 The classic Pong game from the Atari console.
 
-<img src= "https://github.com/Melomario57/Pong/assets/146278966/0aacb371-cba1-402a-98e8-9f7626071a0e" width="400" height="400"/>
+<img src= "https://github.com/Melomario57/Pong/assets/146278966/0aacb371-cba1-402a-98e8-9f7626071a0e" width="700" height="400"/>
 
 
 
