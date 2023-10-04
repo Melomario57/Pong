@@ -8,13 +8,9 @@ The classic Pong game from the Atari console.
 
 
 
-
-
-
-
-
-
 Important:
+
+
 An cors error appeared while i was making this game, so i had to download an online server on VSCODE and finally the game worked (paddles and ball movements).
 
 
