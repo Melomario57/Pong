@@ -1,6 +1,6 @@
 # Pong
 
-The classic Pong game from the Atari console.
+The classic Pong game from the Atari console(i¨ve used this code just for practicing).
 
 <img src= "https://github.com/Melomario57/Pong/assets/146278966/0aacb371-cba1-402a-98e8-9f7626071a0e" width="700" height="400"/>
 
